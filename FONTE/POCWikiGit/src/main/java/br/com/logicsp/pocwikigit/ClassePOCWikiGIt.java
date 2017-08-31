@@ -11,4 +11,8 @@ package br.com.logicsp.pocwikigit;
  */
 public class ClassePOCWikiGIt {
     
+    public String metodoExistenteBranchA(){
+        return "metodoExistenteBranchA()";
+    }
+    
 }
