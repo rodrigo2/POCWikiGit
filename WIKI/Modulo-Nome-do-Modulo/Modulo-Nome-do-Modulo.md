@@ -22,13 +22,14 @@
 
 ## Funcionalidades
 
-<div style="color:green"> Tabela de funcionalidades do módulo ordenada alfabeticamente de A->Z. </div><br>
+<div style="color:green"> Tabela de funcionalidades do módulo ordenada alfabeticamente de A->Z. </div>
 
 | Funcionalidade                                                                   | Descrição                                                          |
 |----------------------------------------------------------------------------------|--------------------------------------------------------------------|
 | [Nome da Funcionalidade](FU-Nome-da-Funcionalidade/FU-Nome-da-Funcionalidade.md) | <div style="color:green">Descrição sucinta da Funcionalidade</div> |
 
-<div style="color:green">Link para o diagrama de relacionamento entre as funcionalidades:</div><br>
+<div style="color:green">Link para o diagrama de relacionamento entre as funcionalidades:</div>
+
 _Diagrama UML: [UML-Funcionalidades-Nome-do-Modulo.asta](Modulo-Nome-do-Modulo-Anexos/UML-Funcionalidades-Nome-do-Modulo.asta)_
 
 ## Diagramas Técnicos Opcionais
