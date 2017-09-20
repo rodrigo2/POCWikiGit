@@ -6,8 +6,8 @@
 [Home](../Index.md) :: [Módulo Nome-do-Módulo](Modulo-Nome-do-Modulo.md)
 
 
-<div align="right"> [About - Modulo](../About/Organizacao-Fisica/Organizacao-Fisica/Modulo.md) </div>
-
+<div align="right"> <a href="../About/Organizacao-Fisica/Organizacao-Fisica/Modulo.md">About - Modulo</a>  </div>
+ 
 
 <div style="color:green">
   Template da página de documentação de **módulo** de software.
