@@ -2,8 +2,6 @@
 
 [Home](../../Index.md) :: [Arquitetura](../Arquitetura-Index.md) :: [Visão de Implantação](Implantacao.md)
 
-<div align="right"> [About - Arquitetura](../../About/Organizacao-Fisica/Organizacao-Fisica/Arquitetura.md) </div>
-
 <div style="color:green">
   Template da página da visão de implantação do produto de software. Os textos de instruções estão em verde e devem ser removidos do artefato final, inclusive as tags `div`
   Os links para diagramas levam aos respectivos templates
@@ -23,3 +21,8 @@ Esta visão é fundamental se o sistema for distribuído e isso pode acarretar i
 <div style="color:green">Link para o diagrama de empacotamento da entrega (tipo deployment):</div>
 
 _Diagrama UML: [UML-Arquitetura-Deployment.asta](Arquitetura-Anexos/UML-Arquitetura-Deployment.asta)_
+
+_[Sobre o Portal de Documentação](../../About/About.md)_
+
+
+![Rodape](../../Index-Anexos/Rodape.png)

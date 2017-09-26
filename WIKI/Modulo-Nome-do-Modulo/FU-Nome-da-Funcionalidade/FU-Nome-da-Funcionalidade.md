@@ -1,11 +1,8 @@
-
-
-  ![Cabecalho](../../Index-Anexos/Cabecalho.png)
+![Cabecalho](../../Index-Anexos/Cabecalho.png)
 
 
 [Home](../../Index.md) :: [Módulo Nome-do-Módulo](../Modulo-Nome-do-Modulo.md) :: [FU Nome da Funcionaldade](FU-Nome-da-Funcionalidade.md)
 
-<div align="right"> [About - Funcionalidade](../../About/Organizacao-Fisica/Organizacao-Fisica/Funcionalidade.md) </div>
 
 <div style="color:green">
   Template da página de documentação de funcionalidade de software.  Os textos de instruções estão em verde e devem ser removidos do artefato final, inclusive as tags `div`.
@@ -91,3 +88,8 @@ _Diagrama DER: [DER-Nome-da-Funcionalidade.asta](FU-Nome-da-Funcionalidade-Anexo
 | Cenário de Teste                                           | Descrição                                                                  |
 |------------------------------------------------------------|----------------------------------------------------------------------------|
 | [Nome do Cenário](Cenarios-de-Teste/TC-Nome-do-Cenario-de-Testes.md) | <div style="color:green"> Descrição do cenário (o quê será testado) </div> |
+
+_[Sobre o Portal de Documentação](../../About/About.md)_
+
+
+![Rodape](../../Index-Anexos/Rodape.png)

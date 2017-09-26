@@ -2,8 +2,6 @@
 
 [Home](../../Index.md) :: [Arquitetura](../Arquitetura-Index.md) :: [Visão Pacotes](Pacotes.md)
 
-<div align="right"> [About - Arquitetura](../../About/Organizacao-Fisica/Organizacao-Fisica/Arquitetura.md) </div>
-
 <div style="color:green">
   Template da página da visão de pacotes da arquitetura do produto de software. Os textos de instruções estão em verde e devem ser removidos do artefato final, inclusive as tags `div`
   Os links para diagramas levam aos respectivos templates
@@ -20,3 +18,8 @@ Esta seção descreve como o software está dividido em pacotes, mostrando quais
 <div style="color:green">Link para o diagrama de pacotes</div>
 
 _Diagrama UML: [UML-Arquitetura-Pacotes.asta](Arquitetura-Anexos/UML-Arquitetura-Pacotes.asta)_
+
+_[Sobre o Portal de Documentação](../../About/About.md)_
+
+
+![Rodape](../../Index-Anexos/Rodape.png)

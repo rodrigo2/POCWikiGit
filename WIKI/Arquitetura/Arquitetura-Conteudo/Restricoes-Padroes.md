@@ -2,8 +2,6 @@
 
 [Home](../../Index.md) :: [Arquitetura](../Arquitetura-Index.md) :: [Restrições e Padrões](Restricoes-Padroes.md)
 
-<div align="right"> [About - Arquitetura](../../About/Organizacao-Fisica/Organizacao-Fisica/Arquitetura.md) </div>
-
 <div style="color:green">
   Template da página de documentação das restrições e padronizações da arquitetura do produto de software. Os textos de instruções estão em verde e devem ser removidos do artefato final, inclusive as tags `div`
   Os links para diagramas levam aos respectivos templates
@@ -30,3 +28,8 @@ Entre os requisitos chave e restrições do sistema que possuem maior significâ
 ## Padronização
 
 <div style="color:green">Descrever quaisquer outros padrões que devam ser adotados</div>
+
+_[Sobre o Portal de Documentação](../../About/About.md)_
+
+
+![Rodape](../../Index-Anexos/Rodape.png)

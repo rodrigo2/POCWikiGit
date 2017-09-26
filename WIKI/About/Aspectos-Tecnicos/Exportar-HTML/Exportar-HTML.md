@@ -1,8 +1,6 @@
 ![Cabecalho](../../../Index-Anexos/Cabecalho.png)
 
-[About](../../About.md) :: [How-To Tecnico](../How-To-Tecnico.md) :: [Exportar-HTML](Exportar-HTML.md)
-
-<div align="right"> [Voltar para Home](../../../Index.md) </div>
+[About](../../About.md) :: [Aspectos Técnicos](../Aspectos-Tecnicos.md) :: [Exportar-HTML](Exportar-HTML.md)
 
 #  Página em Construção
 
@@ -41,7 +39,21 @@ Fechamento: `</img>`
 
 Limpar
 
-
 Converter de Linux para Windows
 
 for i in `find . -iname '*.md'`; do sed 's/$/^M/g' $i ; done
+
+## corrigir link dentro de div
+
+~~~html
+<div align="right"> [About - Modulo](../About/Organizacao-Fisica/Organizacao-Fisica/Modulo.md </div>
+
+<div align="right"> <a href="../About/Organizacao-Fisica/Organizacao-Fisica/Modulo.md">About - Modulo</a>  </div>
+~~~
+
+
+
+_[Voltar para Documentação do Software](../../.../Index.md)_
+
+
+![Rodape](../../../Index-Anexos/Rodape.png)

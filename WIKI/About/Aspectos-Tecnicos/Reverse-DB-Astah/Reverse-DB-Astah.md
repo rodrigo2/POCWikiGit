@@ -1,11 +1,7 @@
-
-  
-  ![Cabecalho](../../../Index-Anexos/Cabecalho.png)
+![Cabecalho](../../../Index-Anexos/Cabecalho.png)
 
 
-[About](../../About.md) :: [How-To Tecnico](../How-To-Tecnico.md) :: [Reverse BD no Astah](Reverse-DB-Astah.md)
-
-<div align="right"> [Voltar para Home](../../../Index.md) </div>
+[About](../../About.md) :: [Aspectos Técnicos](../Aspectos-Tecnicos.md) :: [Reverse BD no Astah](Reverse-DB-Astah.md)
 
 #  Procedimentos para Reversão (import) de Tabelas no Astah
 
@@ -29,3 +25,9 @@ Acione comando `import`
 Crie um Diagrama ER e arraste as entidades:
 
 ![](Reverse-DB-Astah-Anexos/4-Diagrama.png)
+
+
+_[Voltar para Documentação do Software](../../.../Index.md)_
+
+
+![Rodape](../../../Index-Anexos/Rodape.png)

@@ -2,8 +2,6 @@
 
 [Home](../Index.md) :: [Arquitetura](Arquitetura-Index.md)
 
-<div align="right"> [About - Arquitetura](../About/Organizacao-Fisica/Organizacao-Fisica/Arquitetura.md) </div>
-
 <div style="color:green">
   Template da página de documentação da arquitetura do produto de software. Os textos de instruções estão em verde e devem ser removidos do artefato final, inclusive as tags `div`
   Os links para diagramas levam aos respectivos templates
@@ -24,3 +22,8 @@ A arquitetura é apresentada através de um conjunto de visões que juntas visam
 - [Visão Implantação](Arquitetura-Conteudo/Implantacao.md)
 - [Soluções Técnicas Adotadas](Arquitetura-Conteudo/Solucoes-Tecnicas.md)
 - [Restrições e Padronizações](Arquitetura-Conteudo/Restricoes-Padroes.md)
+
+_[Sobre o Portal de Documentação](../About/About.md)_
+
+
+![Rodape](../Index-Anexos/Rodape.png)

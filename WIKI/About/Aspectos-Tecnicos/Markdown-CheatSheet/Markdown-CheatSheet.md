@@ -1,11 +1,8 @@
 
+![Cabecalho](../../../Index-Anexos/Cabecalho.png)
 
-  ![Cabecalho](../../../Index-Anexos/Cabecalho.png)
 
-
-[About](../../About.md) :: [How-To Tecnico](../How-To-Tecnico.md) :: [Markdown](Markdown-CheatSheet.md)
-
-<div align="right"> [Voltar para Home](../../../Index.md) </div>
+[About](../../About.md) :: [Aspectos Técnicos](../Aspectos-Tecnicos.md) :: [GitHub Markdown](Markdown-CheatSheet.md)
 
 #  Linguagem de Margação MarkDown
 
@@ -136,3 +133,8 @@ k.
 #### Strikethrough
 
 Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
+
+_[Voltar para Documentação do Software](../../.../Index.md)_
+
+
+![Rodape](../../../Index-Anexos/Rodape.png)

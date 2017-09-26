@@ -1,6 +1,4 @@
-
-  
-  ![Cabecalho](../../Index-Anexos/Cabecalho.png)
+![Cabecalho](../../Index-Anexos/Cabecalho.png)
 
 
 [Home](../../Index.md) :: [How-to Técnico](../How-To-Tecnico.md) :: [Nome do Procedimento](Nome-do-Procedimento.md)
@@ -32,3 +30,8 @@
   4. Opcionalmente, utilize sub-títulos de níveis 2, 3, etc, para organizar o conteúdo conforme for necessário.
 
 </div>
+
+_[Sobre o Portal de Documentação](../../About/About.md)_
+
+
+![Rodape](../../Index-Anexos/Rodape.png)

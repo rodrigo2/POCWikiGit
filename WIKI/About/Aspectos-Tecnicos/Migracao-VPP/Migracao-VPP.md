@@ -1,11 +1,6 @@
+![Cabecalho](../../../Index-Anexos/Cabecalho.png)
 
-  
-  ![Cabecalho](../../../Index-Anexos/Cabecalho.png)
-
-
-[About](../../About.md) :: [How-To Tecnico](../How-To-Tecnico.md) :: [Migração Documentação VPP](Migracao-VPP.md)
-
-<div align="right"> [Voltar para Home](../../../Index.md) </div>
+[About](../../About.md) :: [Aspectos Técnicos](../Aspectos-Tecnicos.md) :: [Migração Documentação VPP](Migracao-VPP.md)
 
 #  Orientações para Migração de Documentação Legada do Visual Paradigm
 
@@ -34,3 +29,9 @@
 
 1. Não são intercambeáveis.
 2. Será necessário criar novamente no Astah
+
+
+_[Voltar para Documentação do Software](../../.../Index.md)_
+
+
+![Rodape](../../../Index-Anexos/Rodape.png)

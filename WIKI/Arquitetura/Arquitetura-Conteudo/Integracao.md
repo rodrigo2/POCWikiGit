@@ -2,8 +2,6 @@
 
 [Home](../../Index.md) :: [Arquitetura](../Arquitetura-Index.md) :: [Visão Integrações](Integracao.md)
 
-<div align="right"> [About - Arquitetura](../../About/Organizacao-Fisica/Organizacao-Fisica/Arquitetura.md) </div>
-
 <div style="color:green">
   Template da página de documentação da visão de integração do produto de software. Os textos de instruções estão em verde e devem ser removidos do artefato final, inclusive as tags `div`
   Os links para diagramas levam aos respectivos templates
@@ -19,3 +17,8 @@ Esta seção descreve as integrações com outros sistemas, web services ou carg
 
 
 <div style="color:green"> Esta seção é opcional desde que o sistema não possua nenhuma integração com outros sistemas </div>
+
+_[Sobre o Portal de Documentação](../../About/About.md)_
+
+
+![Rodape](../../Index-Anexos/Rodape.png)

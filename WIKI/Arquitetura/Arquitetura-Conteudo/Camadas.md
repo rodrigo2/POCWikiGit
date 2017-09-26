@@ -2,8 +2,6 @@
 
 [Home](../../Index.md) :: [Arquitetura](../Arquitetura-Index.md) :: [Visão Camadas](Camadas.md)
 
-<div align="right"> [About - Arquitetura](../../About/Organizacao-Fisica/Organizacao-Fisica/Arquitetura.md) </div>
-
 <div style="color:green">
   Template da página da visão de camadas da arquitetura do produto de software. Os textos de instruções estão em verde e devem ser removidos do artefato final, inclusive as tags `div`
   Os links para diagramas levam aos respectivos templates
@@ -32,3 +30,8 @@ As aplicações (funcionalidades) que não respeitarem o fluxo básico devem esp
 <div style="color:green">Link para o diagrama de sequencia do fluxo básico</div>
 
 _Diagrama UML: [UML-Arquitetura-Fluxo-Basico.asta](Arquitetura-Anexos/UML-Arquitetura-Fluxo-Basico.asta)_
+
+_[Sobre o Portal de Documentação](../../About/About.md)_
+
+
+![Rodape](../../Index-Anexos/Rodape.png)

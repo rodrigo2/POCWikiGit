@@ -2,8 +2,6 @@
 
 [Home](../../Index.md) :: [Arquitetura](../Arquitetura-Index.md) :: [Visão Geral](Arquitetura-Geral.md)
 
-<div align="right"> [About - Arquitetura](../../About/Organizacao-Fisica/Organizacao-Fisica/Arquitetura.md) </div>
-
 
 <div style="color:green">
   Template da página da visão geral da arquitetura. Os textos de instruções estão em verde e devem ser removidos do artefato final, inclusive as tags `div`
@@ -23,3 +21,7 @@
 <div style="color:green">Link para o diagrama com a arquitetura de sistema (visão macro do produto e seus relacionamentos com sistemas ou dispositivos externos):</div>
 
 _Diagrama: [Arquitetura-Sistema.asta](Arquitetura-Anexos/Arquitetura-Sistema.asta)_
+
+_[Sobre o Portal de Documentação](../../About/About.md)_
+
+![Rodape](../../Index-Anexos/Rodape.png)

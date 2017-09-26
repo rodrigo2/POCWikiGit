@@ -2,9 +2,6 @@
 
 [Home](Index.md)
 
-<div align="right"> [About](About/About.md) </div>
-
-
 
 <div style="color:green">
   Template da página inicial de documentação do produto de software.  Os textos de instruções estão em verde e devem ser removidos do artefato final, inclusive as tags `div`
@@ -52,3 +49,9 @@
 | [UML-Atividades-Processo-Integracao-XYZ.asta](Index-Anexos/UML-Atividades-Processo-Integracao-XYZ.asta)   | <div style="color:green"> Descrição suscinta do processo descrito no diagrama </div>                                     |
 | [UML-Sequencia-Processo-Comunicacao-XPTO.asta](Index-Anexos/UML-Sequencia-Processo-Comunicacao-XPTO.asta) | <div style="color:green"> Descrição suscinta da interação descrita no diagrama </div>                                     |
 | [UML-Estado-Status-ABC.asta](Index-Anexos/UML-Estado-Status-ABC.asta)                                     | <div style="color:green"> Descrição suscinta do elemento cuja transição de estado está sendo elucidada no diagrama </div> |
+
+
+_[Sobre o Portal de Documentação](About/About.md)_
+
+
+![Rodape](Index-Anexos/Rodape.png)

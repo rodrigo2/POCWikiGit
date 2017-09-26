@@ -1,25 +1,19 @@
 
-
-  ![Cabecalho](../Index-Anexos/Cabecalho.png)
-
+![Cabecalho](../Index-Anexos/Cabecalho.png)
 
 [Home](../Index.md) :: [Módulo Nome-do-Módulo](Modulo-Nome-do-Modulo.md)
-
-
-<div align="right"> <a href="../About/Organizacao-Fisica/Organizacao-Fisica/Modulo.md">About - Modulo</a>  </div>
- 
 
 <div style="color:green">
   Template da página de documentação de **módulo** de software.
   Os textos de instruções estão em verde e devem ser removidos do artefato final, inclusive as tags `div`
   Os links para diagramas levam aos respectivos templates
-</div><br>
+</div>
 
 # Módulo Nome-do-Módulo
 
 ## Descrição
 
-<div style="color:green"> Descrição do objetivo do módulo, o qual deve representar a principal característica das funcionalidades que ele agrega. Opcionalmente utilize sub-títulos de níveis 2, 3, etc, para organizar o conteúdo conforme for necessário. </div><br>
+<div style="color:green"> Descrição do objetivo do módulo, o qual deve representar a principal característica das funcionalidades que ele agrega. Opcionalmente utilize sub-títulos de níveis 2, 3, etc, para organizar o conteúdo conforme for necessário. </div>
 
 ## Funcionalidades
 
@@ -47,3 +41,8 @@ _Diagrama UML: [UML-Funcionalidades-Nome-do-Modulo.asta](Modulo-Nome-do-Modulo-A
 | [UML-Atividades-Processo-Integracao-XYZ.asta](Modulo-Nome-do-Modulo-Anexos/UML-Atividades-Processo-Integracao-XYZ.asta)   | <div style="color:green"> Descrição suscinta do processo descrito no diagrama </div>                                     |
 | [UML-Sequencia-Processo-Comunicacao-XPTO.asta](Modulo-Nome-do-Modulo-Anexos/UML-Sequencia-Processo-Comunicacao-XPTO.asta) | <div style="color:green"> Descrição suscinta da interação descrita no diagrama </div>                                     |
 | [UML-Estado-Status-ABC.asta](Modulo-Nome-do-Modulo-Anexos/UML-Estado-Status-ABC.asta)                                 | <div style="color:green"> Descrição suscinta do elemento cuja transição de estado está sendo elucidada no diagrama </div> |
+
+_[Sobre o Portal de Documentação](../About/About.md)_
+
+
+![Rodape](../Index-Anexos/Rodape.png)

@@ -2,8 +2,6 @@
 
 [Home](../Index.md) :: [How-to Técnico](How-To-Tecnico.md)
 
-<div align="right"> [About](../About/About.md) </div>
-
 
 <div style="color:green">
   Template da página com os How-To Técnicos do sistema. Os textos de instruções estão em verde e devem ser removidos do artefato final, inclusive as tags `div`
@@ -13,6 +11,7 @@
 # How-To Técnico
 
 <div style="color:green">
+
   Esta é uma página para documentar os procedimentos técnicos do sistema.
 
   Seu conteúdo é uma tabela com a lista de procedimentos. Opcionalmente, pode ser organizado em várias tabelas separadas por contexto, conforme a necessidade.
@@ -31,3 +30,8 @@
 | Procedimento                                                             | Descrição                                                                  |
 |----------------------------------------------------------------------|----------------------------------------------------------------------------|
 | [Nome-do-Procedimento](Nome-do-Procedimento/Nome-do-Procedimento.md) | <div style="color:green">Descrição do procedimento sendo documentado</div> |
+
+_[Sobre o Portal de Documentação](../About/About.md)_
+
+
+![Rodape](../Index-Anexos/Rodape.png)

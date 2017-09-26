@@ -1,12 +1,7 @@
-
-
-  ![Cabecalho](../../../Index-Anexos/Cabecalho.png)
-
-
+![Cabecalho](../../../Index-Anexos/Cabecalho.png)
 
 [Home](../../../Index.md) ::  [Módulo Nome-do-Módulo](../../Modulo-Nome-do-Modulo.md) :: [FU Nome da Funcionaldade](../FU-Nome-da-Funcionalidade.md) :: [UC Nome do Caso de Uso](UC-Nome-do-Caso-de-Uso.md)
 
-<div align="right"> [About - Funcionalidade](../../../About/Organizacao-Fisica/Organizacao-Fisica/Funcionalidade.md) </div>
 
 <div style="color:green">
   Template da página de documentação de **Caso de Uso**.  Os textos de instruções estão em verde e devem ser removidos do artefato final, inclusive as tags `div`. Nos demais pontos substituir `nome-do-caso-de-uso` pelo nome real do caso de uso.
@@ -87,3 +82,7 @@
 2. **Sistema** ação do sistema
 
 ### EX02: Nome do Fluxo de Exceção
+
+_[Sobre o Portal de Documentação](../../../About/About.md)_
+
+![Rodape](../../../Index-Anexos/Rodape.png)
